@@ -28,7 +28,7 @@ cols = repmat('%s,',1,11);
 output = fopen([outputDir,'NCaph1_s',num2str(subject),'_',srand,'.csv'], 'a');
 fprintf(output,[cols,'%s\n'],'subject', 'srand','order','condition','trialID','trialType','subcondition','item','question','correct_resp','response','accuracy');
 
-TrialInfo=readtable('NCaph1_items_v5a.csv');
+TrialInfo=readtable('NCaph1_items_v7.csv');
 
 %% create randomized lists of trials 
 filler_trials=TrialInfo(strcmp(TrialInfo.typeoftrial,'filler'),:);
@@ -114,7 +114,7 @@ a_code = KbName('a')
 l_code = KbName('l')
 
 %% Trial Loop
-for trialnum = 1:height(randomizedTrials);%124
+for trialnum = 1:height(randomizedTrials);% 119
 %for trialnum = 1:5; %for testing/demo    
    KbReleaseWait();
     sentence=char(randomizedTrials.item(trialnum));
