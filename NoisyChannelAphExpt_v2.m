@@ -124,16 +124,16 @@ for trialnum = 1:height(randomizedTrials);% 119
     answercoordinates=[0 0 0 0];
  %   while selected==0;
     [~, keyCode,~] = KbWait();
-    kc = find(keyCode)
+    kc = find(keyCode);
         %[clicks,z,w,buttons]=GetClicks(window,0);            
         %if z>=YesBoxCoords(1) && w>=YesBoxCoords(2)&& z<=YesBoxCoords(3)&& w<=YesBoxCoords(4);
     if find(keyCode) == l_code
-        response = 'Yes'
+        response = 'Yes';
         answercoordinates=YesBoxCoords;
       %  selected = 1;
     %elseif z>=NoBoxCoords(1) && w>=NoBoxCoords(2)&& z<=NoBoxCoords(3)&& w<=NoBoxCoords(4);
     elseif find(keyCode) == a_code
-        response = 'No'
+        response = 'No';
         answercoordinates=NoBoxCoords;
 %           selected = 1;
     end; 

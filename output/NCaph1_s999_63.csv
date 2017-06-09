@@ -1,0 +1,90 @@
+subject,srand,order,condition,trialID,trialType,subcondition,item,question,correct_resp,response,accuracy
+999,63,1,noise,87,filler,filler,The sergeant assigned a locker to the soldier.,Did the sergeant receive something/someone?,No,No,1
+999,63,2,noise,64,filler,filler,An old woman lives in the woods.,Does a woman live in something/someone?,Yes,Yes,1
+999,63,3,noise,76,filler,filler,A ghost appeared above the bed.,Did something/someone appear above the bed?,Yes,Yes,1
+999,63,4,noise,90,filler,filler,The student spent all night studying.,Did the student receive something/someone?,No,No,1
+999,63,5,noise,88,filler,filler,The bank robber cracked the code for the safe.,Did the safe crack something/someone?,No,No,1
+999,63,6,noise,103,test,Deletion-trans,The player benefited the intense practice.,Did the player benefit from something/someone?,No,No,1
+999,63,7,noise,58,exposure,noise,A lawyer lied to the politician about for a new bill.,Did the lawyer lie to someone/something?,Yes,Yes,1
+999,63,8,noise,55,exposure,noise,The professor searched for into the file.,Did the professor search for someone/something?,Yes,Yes,1
+999,63,9,noise,100,test,Deletion-trans,The cheese melted the oven.,Did the oven melt from something/someone?,Yes,Yes,1
+999,63,10,noise,81,filler,filler,The nurse poured some water for the old man.,Was something/someone poured for the old man?,Yes,Yes,1
+999,63,11,noise,43,exposure,noise,The pirate stole the treasure an officer.,Did the officer steal someone/something?,No,No,1
+999,63,12,noise,39,exposure,noise,The dad picked the son because his game loved it.,Did the son pick someone/something?,No,No,1
+999,63,13,noise,93,filler,filler,The runner filled a bottle with cold water.,Did the bottle fill something/someone?,No,No,1
+999,63,14,noise,49,exposure,noise,An assistant angered the boss after he interrupted meeting.,Did the assistant anger someone/something?,Yes,Yes,1
+999,63,15,noise,89,filler,filler,The brother bought concert tickets for his sister.,Was something/someone bought for the sister?,Yes,Yes,1
+999,63,16,noise,108,test,Insertions-PO,The scuba instructor rented the tourist to the equipment.,Did the tourist receive something/someone?,Yes,No,0
+999,63,17,noise,37,exposure,noise,The nurse helped a child into the building brick.,Did the nurse help someone/something?,Yes,Yes,1
+999,63,18,noise,65,filler,filler,The waiter poured a drink for the woman.,Was something/someone poured for the waiter?,No,Yes,0
+999,63,19,noise,52,exposure,noise,The teacher liked after the student because she worked hard.,Was the student liked by someone/something?,Yes,Yes,1
+999,63,20,noise,74,filler,filler,The aunt made a dress for her niece.,Was something/someone made for the niece?,Yes,Yes,1
+999,63,21,noise,79,filler,filler,The dog trainer taught the puppy to roll over.,Was the puppy taught something/someone?,Yes,Yes,1
+999,63,22,noise,61,filler,filler,The astronaut accepted the mission.,Did the astronaut accept something/someone?,Yes,Yes,1
+999,63,23,noise,47,exposure,noise,The aunt lifted the girl her shoulders.,Did the girl lift someone/something?,No,Yes,0
+999,63,24,noise,105,test,Insertion-preposition,The bad lighting hurt from the woman's eyes.,Did the lighting hurt from something/someone?,Yes,Yes,1
+999,63,25,noise,95,filler,filler,The father toasted a muffin for the son at breakfast.,Did the son toast something/someone?,No,No,1
+999,63,26,noise,32,exposure,noise,The photographer followed the bride camera with the.,Did the bride follow someone/something?,No,No,1
+999,63,27,noise,66,filler,filler,The cook baked a cake for Lucy.,Was something/someone baked for Lucy?,Yes,Yes,1
+999,63,28,noise,56,exposure,noise,The trucker ordered a bartender to bring him onto a beer.,Did the bartender receive someone/something?,No,No,1
+999,63,29,noise,101,test,Deletion-trans,The business profited the tax cut.,Did the tax cut profit from something/someone?,Yes,Yes,1
+999,63,30,noise,96,test,Deletion-DO,The shop sold the bike the student.,Did the student receive something/someone?,No,No,1
+999,63,31,noise,69,filler,filler,The woman saved a seat for her husband.,Was something/someone saved for the husband?,Yes,Yes,1
+999,63,32,noise,72,filler,filler,The father bought a bicycle for his son.,Was something/someone bought for the son?,Yes,Yes,1
+999,63,33,noise,107,test,Insertion-preposition,The noise decreased from the man's hearing.,Did the man's hearing decrease from something/someone?,No,No,1
+999,63,34,noise,114,test,Swap-active,The bat swung the player.,Did the bat swing something/someone?,Yes,Yes,1
+999,63,35,noise,67,filler,filler,The grandmother made a quilt for her granddaughter.,Was something/someone made by the granddaughter?,No,No,1
+999,63,36,noise,63,filler,filler,The train arrived at the station.,Did the station arrive at someone/something?,No,No,1
+999,63,37,noise,86,filler,filler,A magnificent diamond sparkled on the prince's finger.,Was there a diamond on the prince's finger?,Yes,Yes,1
+999,63,38,noise,73,filler,filler,The store had bread in stock.,Did the bread have something/someone?,No,No,1
+999,63,39,noise,110,test,Insertions-PO,The boy handed the girl to the pencil.,Did the pencil receive something/someone?,Yes,Yes,1
+999,63,40,noise,31,exposure,noise,The fireman rescued the boy in the time of nick.,Did the fireman rescue someone/something?,Yes,Yes,1
+999,63,41,noise,116,test,Swap-passive,The uncle was sailed by the boat.,Did the uncle sail something/someone?,No,No,1
+999,63,42,noise,57,exposure,noise,The woman wrote a report for the to boss.,Did the boss write something/someone?,No,No,1
+999,63,43,noise,41,exposure,noise,The queen greeted crowd.,Did the crowd greet someone/something?,Yes,No,0
+999,63,44,noise,117,test,Swap-passive,The sister was closed by the window.,Did the window close something/someone?,Yes,Yes,1
+999,63,45,noise,77,filler,filler,The saw cut the diamond.,Did the diamond cut something/someone?,No,No,1
+999,63,46,noise,36,exposure,noise,The pirates came to a search in village of gold.,Did the village search for someone/something?,No,No,1
+999,63,47,noise,109,test,Insertions-PO,The father gave the son to the car.,Did the son receive something/someone?,No,No,1
+999,63,48,noise,71,filler,filler,The coach encouraged the team to score.,Did the team encourage someone/something?,No,No,1
+999,63,49,noise,42,exposure,noise,The queen rewarded brave knight.,Did the queen reward someone/something?,Yes,Yes,1
+999,63,50,noise,70,filler,filler,The baby crawled into the hallway.,Did the baby go into something/someone?,Yes,Yes,1
+999,63,51,noise,75,filler,filler,A cat jumped onto the table.,Was something/someone on the table?,Yes,Yes,1
+999,63,52,noise,112,test,Swap-active,The watch bought the plumber.,Did the plumber buy something/someone?,No,No,1
+999,63,53,noise,102,test,Deletion-trans,The ice cream melted the hot coffee.,Did the ice cream melt from something/someone?,No,No,1
+999,63,54,noise,82,filler,filler,A plant is on the window sill.,Is there something/someone on the window sill?,Yes,Yes,1
+999,63,55,noise,118,test,Swap-passive,The aunt was bought by the book.,Did the aunt buy something/someone?,No,No,1
+999,63,56,noise,35,exposure,noise,The teacher a problem described for the class.,Did the class describe something/someone?,No,No,1
+999,63,57,noise,99,test,Deletion-DO,The girl tossed the apple the boy.,Did the apple receive something/someone?,Yes,Yes,1
+999,63,58,noise,54,exposure,noise,The principal praised a parent for her ability with to motivate her child.,Was the parent praised by someone/something?,Yes,Yes,1
+999,63,59,noise,85,filler,filler,The sister bumped the brother.,Did something/someone bump the sister?,No,No,1
+999,63,60,noise,113,test,Swap-active,The ball kicked the girl.,Did the ball kick something/someone?,Yes,Yes,1
+999,63,61,noise,98,test,Deletion-DO,The actor handed the script the director.,Did the director receive something/someone?,No,Yes,0
+999,63,62,noise,84,filler,filler,The painting hung on the bedroom wall.,Was the painting hanging on the wall?,Yes,Yes,1
+999,63,63,noise,97,test,Deletion-DO,The farmer sold the meat the butcher.,Did the meat receive someone/something?,Yes,Yes,1
+999,63,64,noise,83,filler,filler,The bus passed the bike.,Did the bike pass someone/something?,No,No,1
+999,63,65,noise,33,exposure,noise,The singer put on makeup to show for her prepare.,Did the singer put someone/something on?,Yes,Yes,1
+999,63,66,noise,50,exposure,noise,The man stapled the sign a bulletin board in the hall.,Did the bulletin board staple someone/something?,No,No,1
+999,63,67,noise,60,exposure,noise,The man was shy for because of his accent.,Was someone/something shy?,Yes,Yes,1
+999,63,68,noise,104,test,Insertion-preposition,The earthquake shattered from the house.,Did the earthquake shatter from something/someone?,Yes,Yes,1
+999,63,69,noise,40,exposure,noise,The trainer filled a bag with client for the ice.,Did the trainer receive someone/something?,No,No,1
+999,63,70,noise,78,filler,filler,The chef stirred the soup.,Did the chef stir something/someone?,Yes,Yes,1
+999,63,71,noise,119,test,Swap-passive,The assistant was read by the message.,Did the message read something/someone?,Yes,Yes,1
+999,63,72,noise,106,test,Insertion-preposition,The sun melted from the snow.,Did the sun melt from something/someone?,No,Yes,0
+999,63,73,noise,94,filler,filler,The swimmer found a shell in the ocean.,Did the swimmer find something/someone?,Yes,Yes,1
+999,63,74,noise,45,exposure,noise,The toddler hugged a teddybear because was scared.,Did the teddybear hug someone/something?,No,Yes,0
+999,63,75,noise,46,exposure,noise,The farmer woke up dawn.,Did someone/something wake up?,Yes,Yes,1
+999,63,76,noise,44,exposure,noise,The spy watched a princess several months.,Did the spy watch someone/something?,Yes,Yes,1
+999,63,77,noise,92,filler,filler,The zookeeper carefully fed a lion some meat.,Did the lion feed something/someone?,No,No,1
+999,63,78,noise,115,test,Swap-active,The blanket folded the daughter.,Did the daughter fold something/someone?,No,No,1
+999,63,79,noise,38,exposure,noise,The woman worked that she said at the bakery.,Did the woman say someone/something?,Yes,Yes,1
+999,63,80,noise,62,filler,filler,The plant grew into a tree.,Did the plant grow into something/someone?,Yes,Yes,1
+999,63,81,noise,68,filler,filler,The girl saved some cake for her friend.,Was something/someone saved for the cake?,No,No,1
+999,63,82,noise,53,exposure,noise,The student asked his sister to edit of the homework.,Did the sister ask someone/something to edit?,No,No,1
+999,63,83,noise,34,exposure,noise,The pig broke a fence from escaping before the farm.,Did the fence escape from someone/something?,No,No,1
+999,63,84,noise,91,filler,filler,The student opened a book for the teacher.,Did the teacher open someone/something?,No,No,1
+999,63,85,noise,51,exposure,noise,The murderer killed the journalist cold blood.,Did the murderer kill someone/something?,Yes,Yes,1
+999,63,86,noise,59,exposure,noise,The company paid the victim because while his car had been destroyed.,Did the victim pay someone/something?,No,No,1
+999,63,87,noise,80,filler,filler,The man ordered some tea for his girlfriend.,Was something/someone ordered for the tea?,No,No,1
+999,63,88,noise,111,test,Insertions-PO,The bartender handed the lady to the drink.,Did the lady receive something/someone?,No,No,1
+999,63,89,noise,48,exposure,noise,The dealer shuffled deck before handing out the cards.,Did the deck shuffle someone/something?,No,No,1
