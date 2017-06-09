@@ -1,4 +1,6 @@
 %% Noisy Channel Experiment for patients by Rachel Ryskin
+%% Changed mouse clicks to key presses
+
 clear all;
 cd( '/Users/rachelryskin/Dropbox (MIT)/Noisy Channel Aphasia/')
 commandwindow;
@@ -26,7 +28,7 @@ cols = repmat('%s,',1,11);
 output = fopen([outputDir,'NCaph1_s',num2str(subject),'_',srand,'.csv'], 'a');
 fprintf(output,[cols,'%s\n'],'subject', 'srand','order','condition','trialID','trialType','subcondition','item','question','correct_resp','response','accuracy');
 
-TrialInfo=readtable('NCaph1_items.csv');
+TrialInfo=readtable('NCaph1_items_v5a.csv');
 
 %% create randomized lists of trials 
 filler_trials=TrialInfo(strcmp(TrialInfo.typeoftrial,'filler'),:);
